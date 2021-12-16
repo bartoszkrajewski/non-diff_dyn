@@ -1,0 +1,8 @@
+# Random field Heisenberg chain
+# J=1, Delta=1, W=3.0, h_i in [-W,W]
+# Heisenberg energies omega_H=1/tau_H; for 10^3 realizations of the disorder
+#L omega_H
+
+10 0.0177976
+12 0.0053172
+14 0.00154625

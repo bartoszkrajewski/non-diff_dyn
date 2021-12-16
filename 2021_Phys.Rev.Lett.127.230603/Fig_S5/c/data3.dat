@@ -1,0 +1,8 @@
+# Random field Heisenberg chain
+# L=16, J=1, Delta=1,
+# fitting parameters mu for various disorders with tau_max set to infinity; for disorder averaged spectral function over 10^3 realizations
+
+3.5  1.36749
+4.0  1.38825
+5.0  1.48092
+6.0  1.58541

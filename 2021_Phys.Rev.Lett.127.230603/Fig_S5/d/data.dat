@@ -1,0 +1,11 @@
+# Random field Heisenberg chain
+# J=1, Delta=1,
+# fitting parameters mu for various system sizes and disorders; for disorder averaged spectral function over 10^3 realizations
+# W mu(L=16) mu(L=14) mu(L=12) 
+
+1.5   1.1466    1.16531  1.21319
+1.75  1.086740  1.0967   1.16982
+2.0   1.052837  1.08704  1.16587
+2.25  1.0428    1.08727  1.16974
+2.5   1.060358  1.10889  1.22728 
+3.0   1.12718   1.16397  1.3201

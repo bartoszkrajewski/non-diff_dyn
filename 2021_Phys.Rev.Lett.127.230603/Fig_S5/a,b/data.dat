@@ -1,0 +1,12 @@
+# Random field Heisenberg chain
+# J=1, Delta=1,
+# fitting parameters tau_max (and Heisenberg times) for various system sizes and disorders; for disorder averaged spectral function over 10^3 realizations
+# W tau_max(L=16) tau_max(L=14) tau_max(L=12) tau_H(L=16) tau_H(L=14) tau_H(L=12) 
+
+1.50  302.0086  164.924  72.6945     1793.48   511.282   148.682
+1.75  599.1682  273.763  114.271     1650.64   470.563   136.841
+2.00  1011.23   429.353  170.557     1521.82   433.838   126.161
+2.25  1452.26   588.761  217.391     1406.92   401.083   116.636
+2.50  2034.44   780.39   284.806     1304.95   372.013   108.182
+3.00  3625.00   1139.06  500.954     1134.3    323.363   94.0349
+

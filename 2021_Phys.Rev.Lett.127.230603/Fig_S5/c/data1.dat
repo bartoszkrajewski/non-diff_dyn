@@ -1,0 +1,14 @@
+# Random field Heisenberg chain
+# L=16, J=1, Delta=1,
+# fitting parameters mu for various disorders; averaged over 10^3 realizations of the disorder
+# W mu
+
+1.5  1.00093
+1.75 0.995646
+2.0  1.00556
+2.25 1.02557
+2.5  1.05859
+3.0  1.13809
+4.0  1.30296
+5.0  1.40734
+
