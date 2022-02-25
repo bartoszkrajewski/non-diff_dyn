@@ -1,0 +1,11 @@
+# XXZ model at half-filling
+# J=1, Delta=0.01
+# Stiffness from the perturbative approach for the operator A=E_2
+# 1/L D_A
+
+0.1250 0.0987579
+0.0833 0.0802786
+0.0625 0.0744561
+0.0500 0.0719035
+0.0416 0.0707439
+0.0357 0.0700231

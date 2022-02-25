@@ -1,0 +1,16 @@
+# Hubbard model
+# L=10, t_h=1, m_{av}=0
+# Charge stiffness D_c from perturbation approach
+# n_{av} D_c
+
+0 0.0000
+0.1 0.2000
+0.2 0.3840
+0.3 0.5204
+0.4 0.6329
+0.5 0.6901
+0.6 0.7062
+0.7 0.6485
+0.8 0.5148
+0.9 0.2802
+1 0.0000

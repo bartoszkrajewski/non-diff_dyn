@@ -1,0 +1,13 @@
+# Quarter-filled Hubbard Chain 
+# L=8, N_up=N_down=2
+# Relative difference, Err_A, between the ED results and the perturbative approach for A=J_c
+# U Err_A
+
+0.2 0.00322719
+0.09 0.000654631
+0.06 0.000291018
+0.03 7.2765e-05
+0.01 8.08535e-06
+0.001 8.08533e-08
+0.0001 8.03516e-10
+1e-05 1.41291e-11

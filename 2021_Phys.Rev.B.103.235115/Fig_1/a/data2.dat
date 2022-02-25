@@ -1,0 +1,11 @@
+# XXZ model at half-filling
+# J=1
+# Spin stiffness D_s from the perturbative approach
+# 1/L D_s
+
+0.1250 0.10042
+0.0833 0.0966826
+0.0625 0.0955551
+0.0500 0.0950798
+0.0416 0.0949003
+0.0357 0.094811

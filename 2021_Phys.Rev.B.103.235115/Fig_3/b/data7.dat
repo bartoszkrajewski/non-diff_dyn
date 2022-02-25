@@ -1,0 +1,14 @@
+# XXZ chain with grandcanonical averaging over the Hilbert space
+# L=10, J=1, Delta \to 0.5
+# Relative difference, Err_A, between the ED results and the perturbative approach for A=F_3
+# |Delta-Delta_c| Err_A*10
+
+0.01 0.0831481
+0.001 0.00823854
+0.0001 0.000823089
+1e-05 8.23012e-05
+1e-06 8.23005e-06
+0.03 0.254473
+0.06 0.523687
+0.09 0.80704
+0.2 1.98564

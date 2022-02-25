@@ -1,0 +1,9 @@
+# XXZ model at half-filling
+# J=1, Delta=0.01
+# Spin stiffness D_s from ED
+# 1/L D_s
+
+0.25 0.124997
+0.125 0.100411
+0.0833 0.096743
+0.0625 0.0955632

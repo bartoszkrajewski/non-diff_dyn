@@ -1,0 +1,12 @@
+# XXZ chain with grandcanonical averaging over the Hilbert space
+# J=1, Delta=0.5
+# Spin stiffness D_S
+# 1/L D_s
+
+0.25 0.12132353
+0.166667 0.07690710
+0.125 0.08907537
+0.1 0.08136071
+0.0833333 0.08193502
+0.0714286 0.07956768
+0.0625 0.07907314
