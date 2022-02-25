@@ -1,0 +1,14 @@
+# Toy model
+# L=1e7, W=1.5
+# Density rho_M for nonresonant islands of length M
+# M rho_M
+
+1 0.0298889
+2 0.0096676
+3 0.0036707
+4 0.0011911
+5 0.0003837
+6 0.0001269
+7 3.84e-05
+8 1.26e-05
+9 5.1e-06

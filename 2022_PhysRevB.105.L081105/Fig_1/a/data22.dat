@@ -1,0 +1,12 @@
+# Random-field Heisenberg model
+# L=26, J=1, Delta=1.0
+# High-T dc spin conductivities sigma_0
+# W/J sigma_0
+
+1 0.0576591
+1.5 0.0176244
+2 0.0041499
+2.5 0.000913319
+3 0.000230414
+3.5 8.00931e-05
+4 2.64046e-05
