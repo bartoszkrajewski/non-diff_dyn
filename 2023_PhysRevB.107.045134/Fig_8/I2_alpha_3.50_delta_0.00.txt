@@ -1,0 +1,11 @@
+# long range Heisenberg model
+# J = 1.0, Alpha = 3.50, Delta = 0.00
+# Finite size scaling of stifness of I2
+# Alpha, Delta, stifness
+
+8  0.6249765133207562
+10  0.5397268891780042
+12  0.474060999338573
+14  0.43983173609944376
+16  0.36834812854311294
+18  0.2908562611440425
