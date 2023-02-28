@@ -1,0 +1,8 @@
+# Spinless fermions Hamiltonian with random disorder and nearest neighbour interactions
+# L=(12-16) (size), J=0.5 (hoping amplitude), V=0.5 (interaction), W/J=6 (disorder strength)
+# % of points that satisfy I_{fTWA} > I_{ED} for different sizes L
+# size L, % of points 
+
+12   0.065
+14   0.040
+16   0.025

@@ -1,0 +1,10 @@
+# Spinless fermions Hamiltonian with random disorder and nearest neighbour interactions
+# L=8x8 (size), J=0.5 (hoping amplitude), V=0.5 (interaction), W/J=10 (disorder strength), N=30 (disorder realizations)
+# Mean squared error between original data and filtered one for Imbalance (fTWA method)
+# 1/Number of trajectories , Mean squared error
+
+0.20000    2.92458299E-05
+0.10000    1.46338316E-05
+0.06667    9.92269906E-06
+0.05000    7.46450951E-06
+0.04000    5.87735940E-06

@@ -1,0 +1,10 @@
+# Spinless fermions Hamiltonian with random disorder and nearest neighbour interactions
+# L=8x8 (size), J=0.5 (hoping amplitude), V=0.5 (interaction), W/J=10 (disorder strength), N=30 (disorder realizations)
+# Mean squared error between original data and filtered one for Spectral function S(omega) (fTWA method)
+# 1/Number of trajectories , Mean squared error
+
+0.20000    7.07360879E-02
+0.10000    3.66933756E-02
+0.06667    2.46730167E-02
+0.05000    1.81761757E-02
+0.04000    1.49379550E-02
