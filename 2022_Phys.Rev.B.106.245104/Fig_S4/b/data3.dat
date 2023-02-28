@@ -1,0 +1,9 @@
+# Heisenberg S=1/2 chain with anisotropy 
+# L=16-32, J=1.0 , Delta=1.5, Delta_{2}  = 0.00, deltaJ = 0.40  deltah= 0.00
+# Diffusion constant D(1/L) (steady-state)
+# System size 1/L, Diffusion constant D(1/L)
+
+  0.05000  0.16493
+  0.03330  0.15034
+  0.02500  0.14294
+  0.02000  0.13935
