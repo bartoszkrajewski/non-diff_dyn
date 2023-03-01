@@ -1,6 +1,6 @@
 # Relaxation mechanisms in a disordered system with Poisson-level statistics
 
- M. Mierzejewski, and J. Bon&ccaron;a
+J. Bon&ccaron;a, and M. Mierzejewski 
 
 [Phys. Rev. B 105, 155146 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.155146)
 
