@@ -1,0 +1,10 @@
+# XXZ chain
+# full Hilbert space, J = 1, Delta = 0.5, g = 0.0
+# Finite size scaling of the stiffness of O3
+# L, C_3(t->inf)
+
+8  0.481489246823433
+10  0.47665398831239
+12  0.468095826389783
+14  0.461503662845973
+16  0.45677
