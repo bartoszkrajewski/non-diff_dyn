@@ -1,0 +1,12 @@
+# Heisenberg S=1/2 chain with anisotropy 
+# L=32, J=1.0 , Delta=1.5, Delta_{2}  = 0.00, deltaJ = 0.00,  deltah = 0.60
+# Canonical dc diffusion constant D_{C}(m) (points)
+# Magnetization m, Canonical dc diffusion constant D_{C}(m)
+
+    0.0000    0.1174
+    0.0312    0.1139
+    0.0625    0.1269
+    0.0938    0.1593
+    0.1250    0.1814
+    0.1562    0.2197
+    0.1875    0.2750

@@ -51,4 +51,4 @@ missing. Such understanding is important not only from the perspective of DSMB b
 
 
 
-[prof. dr hab. Marcin Mierzejewski]: http://www.if.pwr.edu.pl/~mierzejewski/
+[prof. dr hab. Marcin Mierzejewski]: https://mierzejewski.wppt.pwr.edu.pl/

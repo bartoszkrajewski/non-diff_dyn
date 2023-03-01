@@ -1,0 +1,6 @@
+# Spinless fermions Hamiltonian with random disorder and nearest neighbour interactions
+# L=16 (size), J=0.5 (hoping amplitude), V=0.5 (interaction), W/J=10 (disorder strength)
+# Point number 19 from data1.dat with additional error bar calculated from time t \in (1000,5000)
+# Imbalance I^{s}_{ED}, Imbalance I^{s}_{TWA}, standard deviation
+
+   0.70572102614782095   0.78518944342352903  0.05715536083234588
