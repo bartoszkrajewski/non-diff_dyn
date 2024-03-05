@@ -1,0 +1,4 @@
+- columns labelled as `Superlattice` correspond to panel (a)
+- columns labelled as `SYK2` correspond to inset on panel (a)
+- columns labelled as `Anderson` correspond to panel (b)
+- columns labelled as `AA` correspond to inset on panel (b)

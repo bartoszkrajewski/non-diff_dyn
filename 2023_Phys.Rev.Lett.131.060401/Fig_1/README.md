@@ -1,0 +1,2 @@
+- columns labelled `position` correspond to $\hat{O} = \hat{n}_1$
+- columns labelled `momentum` correspond to $\hat{O} = \hat{m}_0$
