@@ -1,0 +1,8 @@
+# Interacting fermions with random potentials (interaction = pair hopping)
+# t=1, V=4, W=2.0
+# Medians fluctuations of the diagonal matrix elements <\delta A_i>
+# L median(<\delta A_i>)
+1.000000000000000000e+01 1.862268992851428551e-01
+1.200000000000000000e+01 1.241267598743716061e-01
+1.400000000000000000e+01 6.724931533310717080e-02
+1.600000000000000000e+01 3.696841470086698056e-02
