@@ -1,0 +1,13 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=27, number_of_particles=13, J=1.0, Delta=0.5
+# Diffusion D_{0} for QP (k=10/27), phase shift number 1
+# Field strength W, Diffusion D_{0}
+
+0.5	3.3010600
+1.0	0.7346680
+1.5	0.2603040
+2.0	0.1052040
+2.5	0.0331760
+3.0	0.0074160
+3.5	0.0015960
+4.0	0.0003280

@@ -1,0 +1,17 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=16, number_of_particles=8, J=1.0, Delta=1.0
+# Diffusion constant D_{0} for P = 2
+# Field strength W, Diffusion D_{0}
+
+0.5	0.688492
+1.0	0.284244
+1.5	0.0899172
+2.0	0.0605548
+4.5	0.03494868
+5.0	0.03313288
+5.5	0.03119048
+6.0	0.02934692
+8.5	0.0223614
+9.0	0.0213526
+9.5	0.02041848
+10.0 0.01964308

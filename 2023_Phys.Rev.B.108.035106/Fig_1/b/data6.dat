@@ -1,0 +1,13 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=27, number_of_particles=13, J=1.0, Delta=0.5
+# Diffusion D_{0} for QP (MCLM)
+# Field strength W, Diffusion D_{0}
+
+0.5	3.3011
+1.0	0.7347
+1.5	0.2603
+2.0	0.1052
+2.5	0.0332
+3.0	0.0074
+3.5	0.0016
+4.0	0.0003

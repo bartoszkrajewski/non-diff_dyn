@@ -1,0 +1,20 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=18, number_of_particles=9, J=1.0, Delta=0.5
+# Diffusion D_{0} for QP (offdiag. ME)
+# Field strength W, Diffusion D_{0}
+
+0.50	3.7716
+0.75	1.4750
+1.00	0.7568
+1.25	0.4378
+1.50	0.2717
+1.75	0.1692
+2.00	0.1035
+2.25	0.0589
+2.50	0.0296
+2.75	0.0134
+3.00	0.0056
+3.25	0.0026
+3.50	0.0012
+3.75	0.0006
+4.00	0.0004

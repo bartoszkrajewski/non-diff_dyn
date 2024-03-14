@@ -1,0 +1,22 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=16, number_of_particles=7, J=1.0, Delta=1.0
+# level sensitivity parameter R
+# Field strength W, level sensitivity parameter R
+
+0.50	15.3284
+0.75	9.9056
+1.00	7.3765
+1.25	5.7562
+1.50	4.5183
+1.75	3.6647
+2.00	2.9793
+2.25	2.4016
+2.50	1.8341
+2.75	1.3455
+3.00	0.9486
+3.25	0.6361
+3.50	0.3972
+3.75	0.2792
+4.00	0.1919
+4.25	0.1270
+4.50	0.0854

@@ -1,0 +1,20 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=18, number_of_particles=9, J=1.0, Delta=0.5
+# Diffusion D_{0} for periodicity P = 3 (offdiag. ME)
+# Field strength W, Diffusion D_{0}
+
+0.50	4.1970
+0.75	1.7342
+1.00	0.8548
+1.25	0.4686
+1.50	0.2809
+1.75	0.1788
+2.00	0.1202
+2.25	0.0833
+2.50	0.0586
+2.75	0.0429
+3.00	0.0337
+3.25	0.0276
+3.50	0.0225
+3.75	0.0184
+4.00	0.0153

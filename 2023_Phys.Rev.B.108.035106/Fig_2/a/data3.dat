@@ -1,0 +1,20 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=18, number_of_particles=8, J=1.0, Delta=1.0
+# gap ratio r
+# Field strength W, gap ratio r
+
+0.50	0.5998
+0.75	0.5979
+1.00	0.6014
+1.25	0.5976
+1.50	0.6006
+1.75	0.6014
+2.00	0.5996
+2.25	0.6023
+2.50	0.5965
+2.75	0.5875
+3.00	0.5669
+3.25	0.5291
+3.50	0.4862
+3.75	0.4459
+4.00	0.4204

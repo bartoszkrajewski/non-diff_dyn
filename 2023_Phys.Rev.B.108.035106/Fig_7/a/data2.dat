@@ -1,0 +1,20 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=21, number_of_particles=9, J=1.0, Delta=0.5
+# gap ratio r for periodic field P = 3
+# Field strength W, gap ratio r
+
+0.50	0.6002
+0.75	0.5959
+1.00	0.6001
+1.25	0.5998
+1.50	0.5972
+1.75	0.5985
+2.00	0.5967
+2.25	0.5954
+2.50	0.5725
+2.75	0.5568
+3.00	0.5500
+3.25	0.5462
+3.50	0.5483
+3.75	0.5529
+4.00	0.5424

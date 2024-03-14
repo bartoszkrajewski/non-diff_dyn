@@ -1,0 +1,22 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=18, number_of_particles=8, J=1.0, Delta=0.5
+# Q from the diagonal ME for periodic field P = 3
+# Field strength W, ME criteria Q
+
+0.50	3.0952
+0.75	3.0646
+1.00	3.1126
+1.25	3.0447
+1.50	3.0748
+1.75	3.1841
+2.00	3.4785
+2.25	3.6656
+2.50	4.2796
+2.75	4.9809
+3.00	9.8737
+3.25	25.3144
+3.50	38.6719
+3.75	51.2858
+4.00	61.8538
+4.25	68.5528
+4.50	77.0290

@@ -1,0 +1,20 @@
+# XXZ spin model with modualted magnetic field S=1/2
+# L=21, number_of_particles=9, J=1.0, Delta=0.5
+# offdiagonal/diagonal ratio Y for periodic field P = 3
+# Field strength W, ratio Y
+
+0.50	0.9353
+0.75	0.9886
+1.00	0.9975
+1.25	0.9894
+1.50	0.9743
+1.75	0.9758
+2.00	0.9570
+2.25	0.9176
+2.50	0.9196
+2.75	0.9256
+3.00	0.9711
+3.25	0.8688
+3.50	0.9861
+3.75	1.0638
+4.00	1.2992
